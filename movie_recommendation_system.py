@@ -45,3 +45,8 @@ recommendations = get_recommendations(user_id, movie_similarity, movie_matrix)
 
 # Print recommendations
 print(f"Recommendations for user {user_id}: {recommendations}")
+
+
+
+Output:
+Recommendations for user 1: ['Mersal', 'Comali', 'Dada']
